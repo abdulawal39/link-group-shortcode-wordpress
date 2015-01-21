@@ -17,7 +17,7 @@ Its all done. Now you can style the links as you need.
 
 # Result
 
-The following shortcode will result the following:
+The shortcode will result the following:
 
 <ul>
   <li><a href="http://google.com">Test 1</a></li>
