@@ -15,4 +15,15 @@ Use the following shortcode where you want to display the links.
 
 Its all done. Now you can style the links as you need. 
 
+# Result
+
+The following shortcode will result the following:
+
+<ul>
+  <li><a href="http://google.com">Test 1</a></li>
+  <li><a href="http://abdulawal.com">Test 2</a></li>
+  <li><a href="http://mamb2b.com">Test 3</a></li>
+  <li><a href="http://yahoo.com">Test 4</a></li>
+</ul>
+
 Thanks
